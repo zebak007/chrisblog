@@ -1,4 +1,4 @@
-name: "Build and Deploy"
+name: "chrisblog Build and Deploy"
 
 on: [push]
 
